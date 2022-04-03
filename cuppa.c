@@ -71,7 +71,6 @@ CuppaOption *cuppa_get_opts (int argc, char *argv[]) {
             pos.which            = OPT_POS;
             pos.positional.idx   = i;
             pos.positional.value = strdup (arg);
-            printf ("val: %s\n", pos.positional.value);
             arr[i] = pos;
         } else {
             CuppaOption named = {0};
