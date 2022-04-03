@@ -1,0 +1,13 @@
+BasedOnStyle: Google
+BreakBeforeBraces: Attach
+AllowShortFunctionsOnASingleLine: false
+ColumnLimit: 80
+SpaceBeforeParens: Always
+PointerAlignment: Right
+ReflowComments: false
+IndentWidth: 4
+SortIncludes: false
+SpaceAfterCStyleCast: true
+AlignConsecutiveAssignments: true
+AllowShortCaseLabelsOnASingleLine: true
+AlignConsecutiveMacros: true

@@ -1,0 +1,5 @@
+cuppa.pc
+libcuppa.so
+cuppa.o
+test.c
+test
